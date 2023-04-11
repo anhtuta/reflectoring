@@ -1,2 +1,2 @@
 # reflectoring
-All tutorial projects from reflectoring.io
+All tutorial projects from https://reflectoring.io
